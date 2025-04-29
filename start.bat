@@ -1,0 +1,3 @@
+@echo off
+echo Starting AI Image Organizer...
+streamlit run app.py
